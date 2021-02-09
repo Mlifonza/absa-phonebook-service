@@ -1,0 +1,8 @@
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\bin\Release\netstandard2.1\Data.deps.json
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\bin\Release\netstandard2.1\Data.dll
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\bin\Release\netstandard2.1\Data.pdb
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\obj\Release\netstandard2.1\Data.csprojAssemblyReference.cache
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\obj\Release\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\obj\Release\netstandard2.1\Data.AssemblyInfo.cs
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\obj\Release\netstandard2.1\Data.dll
+C:\Users\mlifonza\Documents\ionic\projects\absa-phonebook\services\absa-phonebook\Data\obj\Release\netstandard2.1\Data.pdb
